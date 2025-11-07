@@ -25,3 +25,5 @@ Variavel: Não use números, acento, Ç, espaço
 const mediaDeNotas // CamelCase
 const MediaDeNotas // PasquelCase
 const media_notas // Snacke_Case
+
+w3school - site para ajudar nas aulas do Gabriel
