@@ -27,3 +27,5 @@ const MediaDeNotas // PasquelCase
 const media_notas // Snacke_Case
 
 w3school - site para ajudar nas aulas do Gabriel
+
+promt : serve para digitar uma informação que você queira que o usuário veja ou saiba.
